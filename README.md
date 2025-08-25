@@ -15,6 +15,7 @@ Hoje atuo em projetos modernos que envolvem **Web, Blockchain, DApps e APIs de a
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)  
 [![Zend](https://img.shields.io/badge/-Zend-68B604?style=for-the-badge&logo=zend-framework&logoColor=white)](https://framework.zend.com/)  
 
+
 ### ​ Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)  
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  
@@ -35,6 +36,64 @@ Hoje atuo em projetos modernos que envolvem **Web, Blockchain, DApps e APIs de a
 
 ---
 
+## 🚀 Tech Stack (Visual)
+
+### 🔹 Backend
+<p align="left">
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://codeigniter.com/"><img src="https://codeigniter.com/assets/images/ci-logo.png" alt="CodeIgniter" width="40" height="40"/></a>
+  <a href="https://framework.zend.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Zend_logo.svg" alt="Zend" width="40" height="40"/></a>
+</p>
+
+### 🔹 Frontend
+<p align="left">
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+</p>
+
+### 🔹 Blockchain & Web3
+<p align="left">
+  <a href="https://soliditylang.org/"><img src="https://soliditylang.org/assets/images/solidity-logo.svg" alt="Solidity" width="40" height="40"/></a>
+  <a href="https://ethereum.org/"><img src="https://ethereum.org/static/28214bb845b4d58dbfbc0eaf053ce745/31987/eth-diamond-black.png" alt="Ethereum" width="40" height="40"/></a>
+</p>
+
+### 🔹 Banco de Dados
+<p align="left">
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
+</p>
+
+### 🔹 Ferramentas & DevOps
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://www.kernel.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/windows/wsl/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows WSL" width="40" height="40"/></a>
+  <a href="https://www.portainer.io/"><img src="https://www.portainer.io/images/portainer-icon-blue.svg" alt="Portainer" width="40" height="40"/></a>
+  <a href="https://traefik.io/"><img src="https://doc.traefik.io/traefik/assets/img/logo.svg" alt="Traefik" width="40" height="40"/></a>
+  <a href="https://n8n.io/"><img src="https://n8n.io/images/logo.svg" alt="n8n" width="40" height="40"/></a>
+  <a href="https://chatwoot.com/"><img src="https://www.chatwoot.com/assets/logo/chatwoot-logo.svg" alt="Chatwoot" width="40" height="40"/></a>
+  <a href="https://min.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MinIO_Logo.svg" alt="MinIO" width="40" height="40"/></a>
+  <a href="https://easypanel.io/"><img src="https://easypanel.io/static/images/logo.svg" alt="EasyPanel" width="40" height="40"/></a>
+  <a href="https://github.com/EvolutionAPI/evolution-api"><img src="https://raw.githubusercontent.com/EvolutionAPI/evolution-api/main/logo.png" alt="EvolutionAPI" width="40" height="40"/></a>
+  <a href="https://lat.ai/"><img src="https://lat.ai/assets/images/logo.svg" alt="Latitude" width="40" height="40"/></a>
+  <a href="https://www.fireflex.com/knowledge/orion-setup"><img src="https://www.fireflex.com/images/logo.svg" alt="Orion Setup" width="40" height="40"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/EvoAI_logo.png" alt="EvoAI" width="40" height="40"/></a>
+</p>
+
+---
+
 ## 📌 Projetos em Destaque
 
 - 🔗 **DApps e Smart Contracts em Solidity** — Aplicações descentralizadas com foco em segurança e escalabilidade.  
@@ -48,18 +107,6 @@ Hoje atuo em projetos modernos que envolvem **Web, Blockchain, DApps e APIs de a
 
 ![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopelatieri&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopelatieri&layout=compact&theme=radical)
-
----
-
-### ​ Ferramentas & DevOps
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)  
-[![Windows WSL](https://img.shields.io/badge/-Windows%20WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows/wsl/)  
-[![Portainer](https://img.shields.io/badge/-Portainer-0DB7ed?style=for-the-badge&logo=portainer&logoColor=white)](https://www.portainer.io/)  
-[![Traefik](https://img.shields.io/badge/-Traefik-000000?style=for-the-badge&logo=traefik&logoColor=white)](https://traefik.io/) 
 
 ---
 
