@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno
 
-Sou **Desenvolvedor Full Stack** com experiência desde **2006**, quando iniciei minha carreira com **PHP** e frameworks como **CodeIgniter, Zend Framework e Laravel**.  
-Hoje atuo em projetos modernos que envolvem **Web, Blockchain, DApps e APIs de alta performance**, sempre buscando unir robustez, inovação e escalabilidade.
+Sou **Desenvolvedor Full Stack** com experiência desde **2006**, iniciei com **PHP** e frameworks como **CodeIgniter, Zend Framework e Laravel**.  
+Hoje atuo em projetos modernos que envolvem **Web3, Blockchain, DApps e APIs de alta performance**, sempre buscando unir robustez, inovação e escalabilidade.
 
 ---
 
