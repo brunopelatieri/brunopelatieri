@@ -45,8 +45,8 @@ Hoje atuo em projetos modernos que envolvem **Web, Blockchain, DApps e APIs de a
 
 ## 📊 GitHub Stats
 
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunopelatieri&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopelatieri&layout=compact&theme=radical)
 
 ---
 
