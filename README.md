@@ -1,7 +1,45 @@
 # 👋 Olá, eu sou o Bruno
 
-Sou **Desenvolvedor Full Stack** com experiência desde **2006**, iniciei com **PHP** e frameworks como **CodeIgniter, Zend Framework e Laravel**.  
-Hoje atuo em projetos modernos que envolvem **Web3, Blockchain, DApps e APIs de alta performance**, sempre buscando unir robustez, inovação e escalabilidade.
+Sou **Desenvolvedor Full Stack** com experiência desde 2006, quando iniciei minha jornada com PHP e frameworks clássicos como CodeIgniter, Zend Framework e Laravel, que me proporcionaram uma base sólida em desenvolvimento web e arquitetura de sistemas.
+
+Ao longo dos anos, expandi minhas habilidades para tecnologias modernas e de alto impacto, explorando desde o backend até o frontend e blockchain:
+
+<ul>
+  <li>⚡ <strong>Backend:</strong>
+    <a href="https://nodejs.org/" target="_blank" title="NodeJS"><img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
+    <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+    <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+    <a href="https://codeigniter.com/" target="_blank" title="CodeIgniter"><img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/></a>
+    <a href="https://framework.zend.com/" target="_blank" title="Zend"><img src="https://img.shields.io/badge/-Zend-68B604?style=for-the-badge&logo=zend-framework&logoColor=white" alt="Zend"/></a>
+  </li>
+
+  <li>🎨 <strong>Frontend:</strong>
+    <a href="https://react.dev/" target="_blank" title="React"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+    <a href="https://nextjs.org/" target="_blank" title="NextJS"><img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  </li>
+
+  <li>🔗 <strong>Blockchain & Web3:</strong>
+    <a href="https://soliditylang.org/" target="_blank" title="Solidity"><img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
+    <a href="https://ethereum.org/" target="_blank" title="Ethereum"><img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
+  </li>
+
+  <li>🗄️ <strong>Banco de dados:</strong>
+    <br/><strong>Relacionais:</strong>
+    <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+    <br/><strong>Não relacionais:</strong>
+    <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+    <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
+  </li>
+</ul>
+
+Minha paixão está em criar soluções escaláveis, seguras e inovadoras, unindo a robustez de tecnologias consolidadas com a eficiência e flexibilidade das linguagens mais modernas.
+
+🚀 Atualmente, meu foco é no desenvolvimento de DApps, APIs de alta performance e aplicações web modernas, sempre explorando boas práticas e novas possibilidades do ecossistema de tecnologia.
 
 ---
 
