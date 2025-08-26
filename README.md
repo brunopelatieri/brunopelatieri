@@ -52,6 +52,7 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas com
 ### 🔹 Backend
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" title="NodeJS"><img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
+  <a href="https://expressjs.com/" target="_blank" title="ExpressJS"><img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/></a>
   <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
@@ -67,6 +68,8 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas com
   <a href="https://jquery.com/" target="_blank" title="jQuery"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" title="Bootstrap"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 </p>
 
 ### 🔹 Blockchain & Web3

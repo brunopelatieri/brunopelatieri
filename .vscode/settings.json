@@ -1,0 +1,11 @@
+{
+    "markdownlint.lintWorkspaceGlobs": [
+        "**/*.{mkd,mdwn,mdown,markdown,markdn,mdtxt,mdtext,workbook}",
+        "!**/*.code-search",
+        "!**/bower_components",
+        "!**/node_modules",
+        "!**/.git",
+        "!**/vendor",
+        "!**/*.md"
+    ]
+}
