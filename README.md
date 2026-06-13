@@ -26,25 +26,32 @@ Ao longo dos anos, expandi minhas habilidades para tecnologias modernas e de alt
   </li>
 
   <li>🤖 <strong>IA & LLMs:</strong>
-    <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/-Claude%20Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus"/></a>
-    <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o"/></a>
-    <a href="https://openai.com/blog/openai-codex" target="_blank"><img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/></a>
+    <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/-Claude%20Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Anthropic"/></a>
+    <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/-GPT%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT OpenAI"/></a>
     <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/></a>
+    <a href="https://www.deepseek.com/" target="_blank"><img src="https://img.shields.io/badge/-DeepSeek-0066CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/></a>
+    <a href="https://grok.com/" target="_blank"><img src="https://img.shields.io/badge/-Grok%20xAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok xAI"/></a>
     <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
-    <a href="https://dify.ai/" target="_blank"><img src="https://img.shields.io/badge/-Dify-5C6BC0?style=for-the-badge&logo=github&logoColor=white" alt="Dify"/></a>
   </li>
 
   <li>🔧 <strong>Automação & Agentes de IA:</strong>
     <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/-n8n-FF5C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+    <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+    <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/></a>
+    <a href="https://smith.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/-LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
+    <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/-MCP%20Server-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Server"/></a>
+    <a href="https://evoai.app/" target="_blank"><img src="https://img.shields.io/badge/-EvoAI-5A67D8?style=for-the-badge&logo=github&logoColor=white" alt="EvoAI"/></a>
     <a href="https://www.activepieces.com/" target="_blank"><img src="https://img.shields.io/badge/-ActivePieces-000000?style=for-the-badge&logo=github&logoColor=white" alt="ActivePieces"/></a>
-    <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/-MCP%20Server-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="MCP Server"/></a>
-    <a href="https://github.com/EvolutionAPI/evo-ai" target="_blank"><img src="https://img.shields.io/badge/-EvoAI-5A67D8?style=for-the-badge&logo=github&logoColor=white" alt="EvoAI"/></a>
+    <a href="https://kestra.io/" target="_blank"><img src="https://img.shields.io/badge/-Kestra-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Kestra"/></a>
+    <a href="https://dify.ai/" target="_blank"><img src="https://img.shields.io/badge/-Dify-5C6BC0?style=for-the-badge&logo=github&logoColor=white" alt="Dify"/></a>
+    <a href="https://openclaw.ai/" target="_blank"><img src="https://img.shields.io/badge/-OpenClaw-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw"/></a>
     <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/-Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/></a>
   </li>
 
   <li>✍️ <strong>Engenharia de Prompt:</strong>
     <a href="https://github.com/brunopelatieri/AI_XML_Tag_Guide" target="_blank"><img src="https://img.shields.io/badge/-XML%20Prompts-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="XML Prompts"/></a>
-    <img src="https://img.shields.io/badge/-Chain--of--Thought-8B5CF6?style=for-the-badge&logoColor=white" alt="Chain-of-Thought"/>
+    <a href="https://agentskills.io/home" target="_blank"><img src="https://img.shields.io/badge/-Agent%20Skills-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Agent Skills"/></a>
+    <img src="https://img.shields.io/badge/-Chain--of--Thought-6D28D9?style=for-the-badge&logoColor=white" alt="Chain-of-Thought"/>
     <img src="https://img.shields.io/badge/-Few--Shot-EC4899?style=for-the-badge&logoColor=white" alt="Few-Shot"/>
     <img src="https://img.shields.io/badge/-RAG-10B981?style=for-the-badge&logoColor=white" alt="RAG"/>
     <img src="https://img.shields.io/badge/-System%20Prompts-F59E0B?style=for-the-badge&logoColor=white" alt="System Prompts"/>
@@ -71,7 +78,7 @@ Ao longo dos anos, expandi minhas habilidades para tecnologias modernas e de alt
 Minha paixão está em criar soluções **escaláveis, seguras e inovadoras** — unindo a robustez de tecnologias consolidadas com a inteligência e flexibilidade das ferramentas mais modernas de IA.
 Minha experiência permite migrar sistemas legados para tecnologias modernas, integrar LLMs em produtos existentes e construir do zero arquiteturas orientadas a agentes autônomos.
 
-🚀 **Atualmente**, meu foco está em: DApps, APIs de alta performance, automação inteligente com n8n, construção de agentes de IA com LLMs (Claude, GPT-4o, Gemini) e desenvolvimento de servidores MCP para conectar IA a fluxos de negócio reais.
+🚀 **Atualmente**, meu foco está em: DApps, APIs de alta performance, automação inteligente com n8n e LangChain, construção de agentes de IA com LLMs (Claude, GPT, Gemini, DeepSeek, Grok) e desenvolvimento de servidores MCP para conectar IA a fluxos de negócio reais.
 
 ---
 
@@ -102,20 +109,26 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 
 ### 🔹 IA, LLMs & Modelos de Linguagem
 <p align="left">
-  <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/-Claude%20Opus-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus"/></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o"/></a>
-  <a href="https://openai.com/blog/openai-codex" target="_blank"><img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/></a>
+  <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/-Claude%20Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Anthropic"/></a>
+  <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/-GPT%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT OpenAI"/></a>
   <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/></a>
+  <a href="https://www.deepseek.com/" target="_blank"><img src="https://img.shields.io/badge/-DeepSeek-0066CC?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/></a>
+  <a href="https://grok.com/" target="_blank"><img src="https://img.shields.io/badge/-Grok%20xAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok xAI"/></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
-  <a href="https://dify.ai/" target="_blank"><img src="https://img.shields.io/badge/-Dify-5C6BC0?style=for-the-badge&logo=github&logoColor=white" alt="Dify"/></a>
 </p>
 
 ### 🔹 Automação Inteligente & Agentes de IA
 <p align="left">
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/-n8n-FF5C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/></a>
+  <a href="https://smith.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/-LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/-MCP%20Server-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP Server"/></a>
+  <a href="https://evoai.app/" target="_blank"><img src="https://img.shields.io/badge/-EvoAI-5A67D8?style=for-the-badge&logo=github&logoColor=white" alt="EvoAI"/></a>
   <a href="https://www.activepieces.com/" target="_blank"><img src="https://img.shields.io/badge/-ActivePieces-000000?style=for-the-badge&logo=github&logoColor=white" alt="ActivePieces"/></a>
-  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/-MCP%20Server-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="MCP Server"/></a>
-  <a href="https://github.com/EvolutionAPI/evo-ai" target="_blank"><img src="https://img.shields.io/badge/-EvoAI-5A67D8?style=for-the-badge&logo=github&logoColor=white" alt="EvoAI"/></a>
+  <a href="https://kestra.io/" target="_blank"><img src="https://img.shields.io/badge/-Kestra-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Kestra"/></a>
+  <a href="https://dify.ai/" target="_blank"><img src="https://img.shields.io/badge/-Dify-5C6BC0?style=for-the-badge&logo=github&logoColor=white" alt="Dify"/></a>
+  <a href="https://openclaw.ai/" target="_blank"><img src="https://img.shields.io/badge/-OpenClaw-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw"/></a>
   <a href="https://cursor.sh/" target="_blank"><img src="https://img.shields.io/badge/-Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/></a>
   <a href="https://chatwoot.com/" target="_blank"><img src="https://img.shields.io/badge/-Chatwoot-FF3B30?style=for-the-badge&logo=chatwoot&logoColor=white" alt="Chatwoot"/></a>
   <a href="https://github.com/EvolutionAPI/evolution-api" target="_blank"><img src="https://img.shields.io/badge/-EvolutionAPI-00B0B9?style=for-the-badge&logo=github&logoColor=white" alt="EvolutionAPI"/></a>
@@ -124,7 +137,8 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 ### 🔹 Engenharia de Prompt
 <p align="left">
   <a href="https://github.com/brunopelatieri/AI_XML_Tag_Guide" target="_blank"><img src="https://img.shields.io/badge/-XML%20Structured%20Prompts-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="XML Structured Prompts"/></a>
-  <img src="https://img.shields.io/badge/-Chain--of--Thought-8B5CF6?style=for-the-badge&logoColor=white" alt="Chain-of-Thought"/>
+  <a href="https://agentskills.io/home" target="_blank"><img src="https://img.shields.io/badge/-Agent%20Skills-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Agent Skills"/></a>
+  <img src="https://img.shields.io/badge/-Chain--of--Thought-6D28D9?style=for-the-badge&logoColor=white" alt="Chain-of-Thought"/>
   <img src="https://img.shields.io/badge/-Few--Shot%20Learning-EC4899?style=for-the-badge&logoColor=white" alt="Few-Shot"/>
   <img src="https://img.shields.io/badge/-RAG-10B981?style=for-the-badge&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/-System%20Prompts-F59E0B?style=for-the-badge&logoColor=white" alt="System Prompts"/>
@@ -151,9 +165,10 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://hub.docker.com/u/brunopelatieri" target="_blank"><img src="https://img.shields.io/badge/-Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://docs.docker.com/engine/swarm/" target="_blank"><img src="https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm"/></a>
-  <a href="https://traefik.io/" target="_blank"><img src="https://img.shields.io/badge/-Traefik-000000?style=for-the-badge&logo=traefik&logoColor=white" alt="Traefik"/></a>
+  <a href="https://traefik.io/" target="_blank"><img src="https://img.shields.io/badge/-Traefik-000000?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/></a>
   <a href="https://www.portainer.io/" target="_blank"><img src="https://img.shields.io/badge/-Portainer-0DB7ed?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/></a>
   <a href="https://min.io/" target="_blank"><img src="https://img.shields.io/badge/-MinIO-0052CC?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
@@ -168,7 +183,7 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 ## 📌 Projetos em Destaque
 
 - 🤖 **MCP Server para n8n** — Servidor MCP que conecta o Cursor AI ao n8n via chat, permitindo criar, editar e executar workflows de automação em linguagem natural. Deploy em Docker Swarm com autenticação por usuário.
-- 📅 **Agente de IA para Google Calendar** — Agente construído com n8n + GPT-4o que gerencia eventos via linguagem natural, com memória de sessão e persistência de dados.
+- 📅 **Agente de IA para Google Calendar** — Agente construído com n8n + GPT que gerencia eventos via linguagem natural, com memória de sessão e persistência de dados.
 - ✍️ **AI XML Tag Guide** — Guia padronizado para construção de prompts estruturados em XML, com compatibilidade para Claude (Anthropic), GPT (OpenAI) e Gemini (Google).
 - 🛠️ **Setup Orion** — Automação completa de infraestrutura VPS: deploy instantâneo de Dify, Ollama, n8n, ActivePieces, Chatwoot, bancos de dados e proxy reverso.
 - ⛓️ **DApps & Smart Contracts** — Aplicações descentralizadas com Solidity + React + Web3.js na Ethereum, incluindo contratos de doação e proteção de links on-chain.
@@ -181,13 +196,13 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 
 ## 💡 O que posso oferecer
 
-> **Para empreendedores & startups:** Transformo ideias em produtos digitais completos — do MVP ao sistema escalável, integrando IA para automatizar processos e acelerar crescimento.
+> **Para empreendedores & startups:** Transformo ideias em produtos digitais completos — do MVP ao sistema escalável, integrando IA para automatizar processos e acelerar crescimento. Com domínio do ecossistema LangChain/LangGraph, EvoAI e MCP, construo agentes autônomos que realmente entregam valor de negócio.
 >
-> **Para investidores:** Experiência técnica sólida em tecnologias emergentes (IA, Web3, Automação) com visão de produto e capacidade de execução comprovada em 18+ anos de mercado.
+> **Para investidores:** Experiência técnica sólida em tecnologias emergentes (IA, Web3, Automação) com visão de produto e capacidade de execução comprovada em 18+ anos de mercado. Fluente nos principais LLMs do mercado — Claude, GPT, Gemini, DeepSeek e Grok — com critério para escolher o modelo certo para cada problema.
 >
-> **Para recrutadores:** Full Stack com profundidade rara — backend, frontend, blockchain, IA e DevOps em um único perfil, com projetos open source verificáveis no GitHub.
+> **Para recrutadores:** Full Stack com profundidade rara — backend, frontend, blockchain, IA e DevOps em um único perfil, com projetos open source verificáveis no GitHub e imagens publicadas no [Docker Hub](https://hub.docker.com/u/brunopelatieri).
 >
-> **Para pesquisadores & profissionais de tecnologia:** Contribuições em Engenharia de Prompt, servidores MCP, pipelines RAG e integração de múltiplos LLMs em produção.
+> **Para pesquisadores & profissionais de tecnologia:** Contribuições em Engenharia de Prompt (XML estruturado, Agent Skills, Chain-of-Thought), servidores MCP, pipelines RAG, orquestração com LangGraph e integração de múltiplos LLMs em produção.
 >
 > **Para estudantes:** Repositórios públicos com código documentado, desde projetos acadêmicos até implementações avançadas de IA — abertos para aprendizado e contribuição.
 
@@ -204,6 +219,7 @@ Minha experiência permite migrar sistemas legados para tecnologias modernas, in
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-pelatieri-goulart/)
 - 🌍 [Site Pessoal](https://brunogoulart.com.br/)
+- 🐳 [Docker Hub](https://hub.docker.com/u/brunopelatieri)
 - ✉️ [WhatsApp: **+55 (19) 9 9249-6598**](https://wa.me/5519992496598)
 - 📧 Contato: **brunopelatieri@gmail.com**
 
