@@ -1,0 +1,3 @@
+# Ignore all files in the .vscode folder
+.vscode/*
+*.code-workspace
