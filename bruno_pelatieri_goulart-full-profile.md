@@ -35,7 +35,7 @@
 | **GitLab** | [gitlab.com/brunopelatieri](https://gitlab.com/brunopelatieri) |
 | **Docker Hub** | [hub.docker.com/u/brunopelatieri](https://hub.docker.com/u/brunopelatieri) |
 | **LinkedIn** | [linkedin.com/in/bruno-pelatieri-goulart](https://www.linkedin.com/in/bruno-pelatieri-goulart/) |
-| **Youtube** | [@devgalactico](https://www.youtube.com/@brunopelatieri) |
+| **Youtube** | [@brunopelatieri](https://www.youtube.com/@brunopelatieri) |
 | **TikTok** | [@brunopelatieri](https://www.tiktok.com/@brunopelatieri) |
 | **X (Twitter)** | [@brunopelatieri](https://x.com/brunopelatieri) |
 | **Instagram** | [@brunopelatieri](https://www.instagram.com/brunopelatieri/) |
