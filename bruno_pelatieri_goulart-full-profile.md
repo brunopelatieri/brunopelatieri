@@ -31,6 +31,7 @@
 | **Nome completo** | Bruno Pelatieri Goulart |
 | **Nome de exibição** | Bruno Pelatieri |
 | **Site pessoal** | [brunogoulart.com.br](https://brunogoulart.com.br/) |
+| **Bio pessoal** | [bru.ia.br](https://bru.ia.br/) |
 | **GitHub** | [github.com/brunopelatieri](https://github.com/brunopelatieri) |
 | **GitLab** | [gitlab.com/brunopelatieri](https://gitlab.com/brunopelatieri) |
 | **Docker Hub** | [hub.docker.com/u/brunopelatieri](https://hub.docker.com/u/brunopelatieri) |
